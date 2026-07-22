@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=SxOoiUy824c",
+    "source": "youtube",
+    "title": "",
+    "thumbnail": "https://i.ytimg.com/vi/SxOoiUy824c/hqdefault.jpg",
+    "score": 0.7,
+    "purpose": "clip",
+    "match_score": 0.7,
+    "local_thumbnail": "output_test_visuals2\\thumb_1.jpg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Tpcpz3OI3UU",
+    "source": "youtube",
+    "title": "",
+    "thumbnail": "https://i.ytimg.com/vi/Tpcpz3OI3UU/hqdefault.jpg",
+    "score": 0.7,
+    "purpose": "clip",
+    "match_score": 0.7,
+    "local_thumbnail": "output_test_visuals2\\thumb_2.jpg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LadL9APUYXg",
+    "source": "youtube",
+    "title": "",
+    "thumbnail": "https://i.ytimg.com/vi/LadL9APUYXg/hqdefault.jpg",
+    "score": 0.7,
+    "purpose": "clip",
+    "match_score": 0.7,
+    "local_thumbnail": "output_test_visuals2\\thumb_3.jpg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=RBN875TnsI4",
+    "source": "youtube",
+    "title": "",
+    "thumbnail": "https://i.ytimg.com/vi/RBN875TnsI4/hqdefault.jpg",
+    "score": 0.7,
+    "purpose": "clip",
+    "match_score": 0.7,
+    "local_thumbnail": "output_test_visuals2\\thumb_4.jpg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dP5M2dIHaJ4",
+    "source": "youtube",
+    "title": "",
+    "thumbnail": "https://i.ytimg.com/vi/dP5M2dIHaJ4/hqdefault.jpg",
+    "score": 0.7,
+    "purpose": "clip",
+    "match_score": 0.7,
+    "local_thumbnail": "output_test_visuals2\\thumb_5.jpg"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=j0xoiIiYHAk",
+    "source": "youtube",
+    "title": "",
+    "thumbnail": "https://i.ytimg.com/vi/j0xoiIiYHAk/hqdefault.jpg",
+    "score": 0.7,
+    "purpose": "clip",
+    "match_score": 0.7,
+    "local_thumbnail": "output_test_visuals2\\thumb_6.jpg"
+  }
+]

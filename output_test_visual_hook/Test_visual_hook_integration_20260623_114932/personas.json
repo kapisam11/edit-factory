@@ -1,0 +1,33 @@
+[
+  {
+    "name": "But",
+    "mentions": 1,
+    "actions": [
+      "why"
+    ],
+    "adjectives": [],
+    "roles": [],
+    "confidence": 0.15000000000000002
+  },
+  {
+    "name": "What",
+    "mentions": 1,
+    "actions": [
+      "they",
+      "happened"
+    ],
+    "adjectives": [],
+    "roles": [],
+    "confidence": 0.2
+  },
+  {
+    "name": "Test",
+    "mentions": 1,
+    "actions": [
+      "visual"
+    ],
+    "adjectives": [],
+    "roles": [],
+    "confidence": 0.15000000000000002
+  }
+]

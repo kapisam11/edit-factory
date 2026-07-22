@@ -1,0 +1,22 @@
+{
+  "package": "output_test_visual_hook\\Test_visual_hook_integration_20260623_114932",
+  "checks": {
+    "hook_length": true,
+    "script_present": true,
+    "thumbnail_exists": true,
+    "supporting_visuals": true,
+    "trending_signal": false,
+    "subtitle_line_length_ok": true,
+    "edit_plan_duration_sec": 48.14285714285714,
+    "edit_plan_duration_ok": true,
+    "avg_shot_length_sec": 2.2925170068027207,
+    "cadence_ok": true,
+    "has_hook": true,
+    "has_climax": true,
+    "has_payoff": true
+  },
+  "ok": true,
+  "notes": [
+    "Checks passed. Perform a final human review before rendering."
+  ]
+}

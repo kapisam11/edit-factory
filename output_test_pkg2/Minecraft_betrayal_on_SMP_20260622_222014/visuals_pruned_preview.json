@@ -1,0 +1,80 @@
+{
+  "package": "output_test_pkg2\\Minecraft_betrayal_on_SMP_20260622_222014",
+  "input_count": 6,
+  "kept_count": 0,
+  "removed_count": 6,
+  "removed": [
+    {
+      "url": "https://www.youtube.com/watch?v=_O_fX93g3xM",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/_O_fX93g3xM/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_pkg2\\Minecraft_betrayal_on_SMP_20260622_222014\\visuals\\thumb_1.jpg",
+      "object_labels": [
+        "diningtable"
+      ],
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Tpcpz3OI3UU",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/Tpcpz3OI3UU/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_pkg2\\Minecraft_betrayal_on_SMP_20260622_222014\\visuals\\thumb_2.jpg",
+      "object_labels": [
+        "tvmonitor"
+      ],
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LadL9APUYXg",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/LadL9APUYXg/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_pkg2\\Minecraft_betrayal_on_SMP_20260622_222014\\visuals\\thumb_3.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VhwlIBqab9k",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/VhwlIBqab9k/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_pkg2\\Minecraft_betrayal_on_SMP_20260622_222014\\visuals\\thumb_4.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=87kSKsrLgdw",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/87kSKsrLgdw/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_pkg2\\Minecraft_betrayal_on_SMP_20260622_222014\\visuals\\thumb_5.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WHmyvpA_EPY",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/WHmyvpA_EPY/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_pkg2\\Minecraft_betrayal_on_SMP_20260622_222014\\visuals\\thumb_6.jpg",
+      "prune_reason": "low_motion(None)"
+    }
+  ]
+}

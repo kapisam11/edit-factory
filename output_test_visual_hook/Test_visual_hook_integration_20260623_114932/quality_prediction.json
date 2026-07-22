@@ -1,0 +1,13 @@
+{
+  "score": 0.4972222222222223,
+  "method": "heuristic",
+  "features": {
+    "script_chars": 435,
+    "script_lines": 8,
+    "title_count": 6,
+    "has_thumbnail": 1,
+    "has_srt": 0,
+    "has_voice": 0,
+    "srt_lines": 0
+  }
+}

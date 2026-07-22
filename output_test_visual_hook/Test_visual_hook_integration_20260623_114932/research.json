@@ -1,0 +1,70 @@
+{
+  "topic": "Test visual hook integration",
+  "who_what": "",
+  "why_care": "Because Test visual hook integration has notable events, history and community interest.",
+  "main_conflict": "Identify a surprising choice, betrayal, or turning point.",
+  "emotion": "dramatic",
+  "strongest_angle": "Focus on human choices and consequences around Test visual hook integration.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Test_visual_hook_integration",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Flearn.microsoft.com%2Fen%2Dus%2Faspnet%2Fcore%2Ftest%2Fintegration%2Dtests%3Fview%3Daspnetcore%2D10.0&amp;rut=8d8627d2e96f06a0e46d2d22a971d065969e61362b45ddd728369dd1d3d12000",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fvs%2Dextension%2Dtesting&amp;rut=8d021ba6347c49be0c484e94e11d5f3b0d33bdc3247c1bbfcb1228bd3110937d",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fcode.visualstudio.com%2Fapi%2Fworking%2Dwith%2Dextensions%2Ftesting%2Dextension&amp;rut=06f2cea87545f1f8e55b44b49976cf9fc61c7dd537d2742b993c9c33482b5309",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.christianfindlay.com%2Fblog%2Fasp%2Ddotnet%2Dcore%2Dminimal%2Dwebhooks&amp;rut=9c797d0bd33c1221d46dc72e64025764ceea0d1aa3134732cbdaaf7780bc778d",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fdavecallan.com%2Fhandling%2Dgithub%2Dwebhooks%2Dazure%2Dfunctions%2Dtesting%2Dintegration%2Dvisual%2Dstudio%2Ddev%2Dtunnels%2F&amp;rut=1247699425d6f8d5f945487df6a461325908bd4c2437c1c5f0daeaa62d35455a",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.securecodebox.io%2Fdocs%2Fcontributing%2Fintegrating%2Da%2Dhook%2Fintegration%2Dtests%2F&amp;rut=147d83e4cf7c8f66f31e1cc1e50e1b4468b4f9806fc49ba17caf1577a74f0f80",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fstripe.com%2Fblog%2Fstripe%2Dextension%2Dfor%2Dvs%2Dcode&amp;rut=18aa528f6ed52e51fc7fb8b741ed90efa8c6470a6ca6f137b916f4d0e2f01e5e",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Filnumerics.net%2Fblog%2Farray%2Dvisualizer%2Dextension%2Dintegration%2Dtests%2Da%2Dpractical%2Dguide%2F&amp;rut=a60407edcc9b85ccd2c95d923fb16ba9e92ead7192cb6ddbcadfd1f70bd04252"
+  ],
+  "visuals": [
+    {
+      "url": "https://www.youtube.com/watch?v=eE3ftKIebNw",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/eE3ftKIebNw/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ox0ykqKtJpg",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/ox0ykqKtJpg/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m8J7t1JXCLA",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/m8J7t1JXCLA/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MtC47MPNgn4",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/MtC47MPNgn4/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SdSpo4IgfQs",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/SdSpo4IgfQs/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Xqy9L-88wcw",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/Xqy9L-88wcw/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    }
+  ],
+  "trending": false
+}

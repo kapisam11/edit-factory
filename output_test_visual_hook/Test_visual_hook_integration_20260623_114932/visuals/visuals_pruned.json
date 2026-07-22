@@ -1,0 +1,70 @@
+{
+  "removed": [
+    {
+      "url": "https://www.youtube.com/watch?v=eE3ftKIebNw",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/eE3ftKIebNw/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_visual_hook\\Test_visual_hook_integration_20260623_114932\\visuals\\thumb_1.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ox0ykqKtJpg",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/ox0ykqKtJpg/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_visual_hook\\Test_visual_hook_integration_20260623_114932\\visuals\\thumb_2.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m8J7t1JXCLA",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/m8J7t1JXCLA/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_visual_hook\\Test_visual_hook_integration_20260623_114932\\visuals\\thumb_3.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MtC47MPNgn4",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/MtC47MPNgn4/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_visual_hook\\Test_visual_hook_integration_20260623_114932\\visuals\\thumb_4.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SdSpo4IgfQs",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/SdSpo4IgfQs/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_visual_hook\\Test_visual_hook_integration_20260623_114932\\visuals\\thumb_5.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Xqy9L-88wcw",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/Xqy9L-88wcw/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7,
+      "local_thumbnail": "output_test_visual_hook\\Test_visual_hook_integration_20260623_114932\\visuals\\thumb_6.jpg",
+      "prune_reason": "low_motion(None)"
+    }
+  ]
+}

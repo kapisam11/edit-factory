@@ -1,0 +1,8 @@
+{
+  "no_robotic_voice": [
+    "No voiceover file found; recommend human VO or high-quality TTS"
+  ],
+  "subtitle_rules": [
+    "No SRT found; subtitles required"
+  ]
+}
