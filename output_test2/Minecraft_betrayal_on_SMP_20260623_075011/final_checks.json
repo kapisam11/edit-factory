@@ -1,0 +1,22 @@
+{
+  "package": "output_test2\\Minecraft_betrayal_on_SMP_20260623_075011",
+  "checks": {
+    "hook_length": true,
+    "script_present": true,
+    "thumbnail_exists": true,
+    "supporting_visuals": true,
+    "trending_signal": true,
+    "subtitle_line_length_ok": true,
+    "edit_plan_duration_sec": 48.14285714285714,
+    "edit_plan_duration_ok": true,
+    "avg_shot_length_sec": 2.2925170068027207,
+    "cadence_ok": true,
+    "has_hook": true,
+    "has_climax": true,
+    "has_payoff": true
+  },
+  "ok": true,
+  "notes": [
+    "Topic appears to have recent activity \u2014 leverage trending hooks in titles and descriptions."
+  ]
+}

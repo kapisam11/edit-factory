@@ -1,0 +1,11 @@
+{
+  "no_robotic_voice": [
+    "No voiceover file found; recommend human VO or high-quality TTS"
+  ],
+  "short_hook": [
+    "First line has 13 words; hook should be 2-5 words"
+  ],
+  "subtitle_rules": [
+    "No SRT found; subtitles required"
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://i.ytimg.com/vi/2psdk13NtvY/hqdefault.jpg",
+    "source": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/2psdk13NtvY/hqdefault.jpg",
+    "purpose": "clip",
+    "local_path": "output_test_visuals3\\img_1.jpg",
+    "downloaded_at": "2026-06-22T19:13:12.606104Z"
+  },
+  {
+    "url": "https://i.ytimg.com/vi/0a1lm1Pi0ME/hqdefault.jpg",
+    "source": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/0a1lm1Pi0ME/hqdefault.jpg",
+    "purpose": "clip",
+    "local_path": "output_test_visuals3\\img_2.jpg",
+    "downloaded_at": "2026-06-22T19:14:01.071336Z"
+  }
+]
