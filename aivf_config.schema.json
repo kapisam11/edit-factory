@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AI Video Factory Config",
+  "description": "Per-project configuration for the AI Video Factory pipeline",
+  "type": "object",
+  "properties": {
+    "prune_min_match": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "default": 0.25,
+      "description": "Minimum match_score to keep visuals"
+    },
+    "prune_min_motion": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "default": 0.07,
+      "description": "Minimum motion_score to keep visuals"
+    },
+    "prune_require_faces": {
+      "type": "array",
+      "items": { "type": "string" },
+      "default": null,
+      "description": "Purpose tags that require faces (e.g. ["hook", "payoff"])"
+    },
+    "target_total_seconds": {
+      "type": "number",
+      "minimum": 10,
+      "maximum": 300,
+      "default": 45,
+      "description": "Target structure length in seconds"
+    },
+    "music_volume": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "default": 0.6,
+      "description": "Background music volume multiplier"
+    },
+    "overlay_paths": {
+      "type": "array",
+      "items": { "type": "string" },
+      "default": [],
+      "description": "Paths to PNG overlay templates (1080x1920 with transparency)"
+    },
+    "use_groq": {
+      "type": "boolean",
+      "default": false,
+      "description": "Enable Groq enrichment"
+    },
+    "groq_model": {
+      "type": "string",
+      "default": "llama-3.1-70b-versatile",
+      "description": "Groq model to use for enrichment"
+    }
+  },
+  "additionalProperties": true
+}
