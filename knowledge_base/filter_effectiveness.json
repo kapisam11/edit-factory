@@ -1,0 +1,42 @@
+{
+  "jump_cut": {
+    "effectiveness": 0.92,
+    "uses": 145,
+    "success_rate": 0.89
+  },
+  "motion_blur": {
+    "effectiveness": 0.78,
+    "uses": 89,
+    "success_rate": 0.75
+  },
+  "cinematic_transition": {
+    "effectiveness": 0.85,
+    "uses": 112,
+    "success_rate": 0.82
+  },
+  "speed_ramp": {
+    "effectiveness": 0.88,
+    "uses": 134,
+    "success_rate": 0.86
+  },
+  "subtle_shake": {
+    "effectiveness": 0.71,
+    "uses": 67,
+    "success_rate": 0.68
+  },
+  "impact_frame": {
+    "effectiveness": 0.94,
+    "uses": 156,
+    "success_rate": 0.91
+  },
+  "glitch_effect": {
+    "effectiveness": 0.8,
+    "uses": 78,
+    "success_rate": 0.77
+  },
+  "color_grade": {
+    "effectiveness": 0.83,
+    "uses": 98,
+    "success_rate": 0.81
+  }
+}

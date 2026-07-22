@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fcpxml version="1.8"><resources><asset id="r1" src="file://C:\edit factory\aivf_smoke_vtgxg0kk\clip_0.mp4" /><asset id="r2" src="file://C:\edit factory\aivf_smoke_vtgxg0kk\clip_1.mp4" /></resources><library><event><project><sequence><spine><asset-clip name="clip_0.mp4" ref="r1" offset="0s" duration="45/30s" /><asset-clip name="clip_1.mp4" ref="r2" offset="0s" duration="45/30s" /></spine></sequence></project></event></library></fcpxml>

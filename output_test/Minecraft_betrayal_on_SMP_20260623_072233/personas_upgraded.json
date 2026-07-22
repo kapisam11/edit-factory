@@ -1,0 +1,32 @@
+[
+  {
+    "name": "But",
+    "mentions": 1,
+    "actions": [
+      "why"
+    ],
+    "adjectives": [],
+    "roles": [],
+    "confidence": 0.15000000000000002
+  },
+  {
+    "name": "What",
+    "mentions": 1,
+    "actions": [
+      "happened"
+    ],
+    "adjectives": [],
+    "roles": [],
+    "confidence": 0.15000000000000002
+  },
+  {
+    "name": "Minecraft",
+    "mentions": 1,
+    "actions": [
+      "betrayal"
+    ],
+    "adjectives": [],
+    "roles": [],
+    "confidence": 0.15000000000000002
+  }
+]

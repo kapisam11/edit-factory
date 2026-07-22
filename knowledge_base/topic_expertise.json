@@ -1,0 +1,94 @@
+{
+  "minecraft": {
+    "key_elements": [
+      "rare loot",
+      "pvp",
+      "base building",
+      "mob interactions",
+      "redstone"
+    ],
+    "trending_now": [
+      "hardcore survival",
+      "speedruns",
+      "server drama",
+      "skill showcase"
+    ],
+    "best_hooks": [
+      "betrayal",
+      "rare find",
+      "impossible challenge",
+      "teamwork fail"
+    ],
+    "tone": "energetic, dramatic, community-focused",
+    "typical_duration": "45-120s"
+  },
+  "roblox": {
+    "key_elements": [
+      "game mechanics",
+      "player reactions",
+      "exploits/bugs",
+      "social drama",
+      "roleplay"
+    ],
+    "trending_now": [
+      "obby challenges",
+      "scams/trolling",
+      "rare items",
+      "community events"
+    ],
+    "best_hooks": [
+      "impossible challenge",
+      "troll moment",
+      "rare item discovery",
+      "social chaos"
+    ],
+    "tone": "fun, chaotic, social",
+    "typical_duration": "30-90s"
+  },
+  "cod": {
+    "key_elements": [
+      "killstreaks",
+      "strategies",
+      "weapon stats",
+      "multiplayer clips",
+      "competitive"
+    ],
+    "trending_now": [
+      "ranked gameplay",
+      "weapon tier lists",
+      "multiplayer tricks",
+      "clutch moments"
+    ],
+    "best_hooks": [
+      "1v5 clutch",
+      "perfect strategy",
+      "weapon highlight",
+      "competitive drama"
+    ],
+    "tone": "intense, competitive, technical",
+    "typical_duration": "60-180s"
+  },
+  "valorant": {
+    "key_elements": [
+      "agent abilities",
+      "map strategy",
+      "teammate synergy",
+      "ranked grind",
+      "pro plays"
+    ],
+    "trending_now": [
+      "agent guides",
+      "clutch moments",
+      "competitive matches",
+      "ability combos"
+    ],
+    "best_hooks": [
+      "perfect execute",
+      "1v4 ace",
+      "agent ability showcase",
+      "ranking up"
+    ],
+    "tone": "competitive, strategic, team-oriented",
+    "typical_duration": "45-150s"
+  }
+}

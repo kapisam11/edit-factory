@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Focus",
+    "mentions": 1,
+    "actions": [
+      "on"
+    ],
+    "adjectives": []
+  },
+  {
+    "name": "This",
+    "mentions": 1,
+    "actions": [
+      "is"
+    ],
+    "adjectives": []
+  },
+  {
+    "name": "Minecraft",
+    "mentions": 1,
+    "actions": [
+      "betrayal"
+    ],
+    "adjectives": []
+  },
+  {
+    "name": "Identify",
+    "mentions": 1,
+    "actions": [
+      "a"
+    ],
+    "adjectives": []
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "heuristic": [
+    {
+      "name": "What",
+      "mentions": 1,
+      "actions": [
+        "happened"
+      ],
+      "adjectives": [],
+      "roles": [],
+      "confidence": 0.15000000000000002
+    },
+    {
+      "name": "But",
+      "mentions": 1,
+      "actions": [
+        "why"
+      ],
+      "adjectives": [],
+      "roles": [],
+      "confidence": 0.15000000000000002
+    },
+    {
+      "name": "Minecraft",
+      "mentions": 1,
+      "actions": [
+        "betrayal"
+      ],
+      "adjectives": [],
+      "roles": [],
+      "confidence": 0.15000000000000002
+    }
+  ],
+  "spacy_attempt": [
+    {
+      "name": "SMP",
+      "mentions": 1,
+      "actions": [],
+      "adjectives": [],
+      "roles": [],
+      "confidence": 0.9
+    }
+  ]
+}
