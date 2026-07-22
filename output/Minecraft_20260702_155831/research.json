@@ -1,0 +1,73 @@
+{
+  "topic": "Minecraft",
+  "who_what": "<p class=\"mw-empty-elt\">\n\n\n</p>\n\n<p><i><b>Minecraft</b></i> is a sandbox game developed and published by the Swedish company Mojang Studios. Following its initial public alpha release as an early access title in 2009, it was formally released in November 2011 for personal computers. The game has since been ported to numerous platforms, including mobile devices and various video game consoles.\n</p><p>In <i>Minecraft</i>, players explore a procedurally generated world with virtually infinite terrain made up of three-dimensional blocks represented as voxels. They can discover and extract raw materials, craft tools and items, build structures, fight hostile mobs, and cooperate with or compete against other players in multiplayer. In addition, the game's large community offers a wide variety of",
+  "why_care": "Because Minecraft has notable events, history and community interest.",
+  "main_conflict": "Identify a surprising choice, betrayal, or turning point.",
+  "emotion": "dramatic",
+  "strongest_angle": "Focus on human choices and consequences around Minecraft.",
+  "content_type": "Minecraft",
+  "platform_focus": "Shorts / Reels / TikTok",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Minecraft",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.minecraft.net%2F&amp;rut=0ed9e235f43649492a8b53d868d690ed4bc54700585fed8cc43a4f4435d40659",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fclassic.minecraft.net%2F&amp;rut=9684b5df34157f52b4933060bdd25797c334a5ffd6a92a703de1a744841a8855",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mojang.minecraftpe%26hl%3Den_US&amp;rut=fd3caacf706c56bcf17f6d0ec6e9a54e14954dfe879ac607a0167f0dde29d58a",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2F9pj8266bhfwn&amp;rut=01544398ad7efe8fd87294eb7c612f4ee64b8fe147860ab8ffe9efe88f551443",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.minecraft.net%2Fen%2Dus%2Fdownload&amp;rut=6cbde2ffe3ced907406ea63b9e54f2584a1400e6a18b5fc1a5e4444090f417ff",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fhelp.minecraft.net%2F&amp;rut=0fa06d2b6833276b38dda7785263ab893dd822b61e43b9e8c8ddb4718977a70f",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Feaglercraft.com%2F&amp;rut=6721c0c614b9a65f2b0fd4f3fe600877ecade67dac3ca33aed08cfb96860c9f2",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fminecraft.wiki%2F&amp;rut=9ef9e625be4e10c8d8347e26d0f1bf4f1dabe59663c930da596ff8d9e18ab3ed"
+  ],
+  "visuals": [
+    {
+      "url": "https://www.youtube.com/watch?v=tCZx4JFOlDg",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/tCZx4JFOlDg/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-PsiWSVKu64",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/-PsiWSVKu64/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8GBgUbne8es",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/8GBgUbne8es/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U31Gio8a15U",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/U31Gio8a15U/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZnfLg6UiDYw",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/ZnfLg6UiDYw/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AAGWvtVi-yA",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/AAGWvtVi-yA/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    }
+  ],
+  "trending": false,
+  "target_total_seconds": 45.0
+}

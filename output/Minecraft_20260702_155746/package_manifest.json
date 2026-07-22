@@ -1,0 +1,15 @@
+{
+  "topic": "Minecraft",
+  "content_type": "Minecraft",
+  "platform_focus": "Shorts / Reels / TikTok",
+  "trending": false,
+  "hook": "Focus on human choices",
+  "emotion": "dramatic",
+  "duration_sec": 45.0,
+  "thumbnail": "thumbnail.png",
+  "primary_visuals": [
+    "https://www.youtube.com/watch?v=tCZx4JFOlDg",
+    "https://www.youtube.com/watch?v=ZAiJ5gEw9tk",
+    "https://www.youtube.com/watch?v=eP-MEHnmUgI"
+  ]
+}
