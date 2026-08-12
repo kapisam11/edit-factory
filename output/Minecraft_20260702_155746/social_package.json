@@ -1,0 +1,42 @@
+{
+  "title_options": [
+    "Focus On Human Choices - Minecraft",
+    "Focus On Human Choices - The Minecraft Behind Minecraft",
+    "Why Minecraft Changed Everything"
+  ],
+  "description": "Focus on human choices - Because Minecraft has notable events, history and community interest. Watch till the end for the emotional payoff and the hidden reason.",
+  "tags": [
+    "Minecraft",
+    "gaming",
+    "shorts",
+    "Minecraft"
+  ],
+  "hashtags": [
+    "#Minecraft",
+    "#SMP",
+    "#Gaming",
+    "#Shorts"
+  ],
+  "platforms": [
+    {
+      "name": "YouTube Shorts",
+      "aspect_ratio": "9:16",
+      "resolution": "1080x1920",
+      "target_length_sec": 30
+    },
+    {
+      "name": "TikTok",
+      "aspect_ratio": "9:16",
+      "resolution": "1080x1920",
+      "target_length_sec": 30
+    },
+    {
+      "name": "Instagram Reels",
+      "aspect_ratio": "9:16",
+      "resolution": "1080x1920",
+      "target_length_sec": 30
+    }
+  ],
+  "why_this_works": "Strong hook, emotional story arc, filmed pacing, and clear payoff make this edit feel human and high-retention.",
+  "emotion": "dramatic"
+}

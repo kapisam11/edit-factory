@@ -1,0 +1,70 @@
+{
+  "removed": [
+    {
+      "url": "https://www.youtube.com/watch?v=tCZx4JFOlDg",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/tCZx4JFOlDg/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7999999999999999,
+      "local_thumbnail": "output\\Minecraft_20260702_155831\\visuals\\thumb_1.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-PsiWSVKu64",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/-PsiWSVKu64/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7999999999999999,
+      "local_thumbnail": "output\\Minecraft_20260702_155831\\visuals\\thumb_2.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8GBgUbne8es",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/8GBgUbne8es/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7999999999999999,
+      "local_thumbnail": "output\\Minecraft_20260702_155831\\visuals\\thumb_3.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U31Gio8a15U",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/U31Gio8a15U/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7999999999999999,
+      "local_thumbnail": "output\\Minecraft_20260702_155831\\visuals\\thumb_4.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZnfLg6UiDYw",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/ZnfLg6UiDYw/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7999999999999999,
+      "local_thumbnail": "output\\Minecraft_20260702_155831\\visuals\\thumb_5.jpg",
+      "prune_reason": "low_motion(None)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AAGWvtVi-yA",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/AAGWvtVi-yA/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip",
+      "match_score": 0.7999999999999999,
+      "local_thumbnail": "output\\Minecraft_20260702_155831\\visuals\\thumb_6.jpg",
+      "prune_reason": "low_motion(None)"
+    }
+  ]
+}

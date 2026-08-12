@@ -1,0 +1,39 @@
+{
+  "hook": "Nobody believed him",
+  "title_options": [
+    "Nobody Believed Minecraft betrayal on SMP",
+    "The Hidden Truth About Minecraft betrayal on SMP",
+    "How Minecraft betrayal on SMP Changed Everything"
+  ],
+  "script": "Nobody believed him.\nThis is about Minecraft betrayal on SMP.\nIt began with a quiet moment, then everything changed.\nHe chose that stunned everyone.\nBut in the end, the consequences were greater than anyone expected.\nAnd this is the part you won't forget.",
+  "edit_plan": [
+    [
+      1.2,
+      "Hook - impact frame with dramatic text"
+    ],
+    [
+      3.6,
+      "Setup - context and stakes"
+    ],
+    [
+      2.42,
+      "Early Payoff - emotional hook"
+    ],
+    [
+      7.2,
+      "Conflict - rising tension"
+    ],
+    [
+      3.24,
+      "Climax - turning point"
+    ],
+    [
+      10.8,
+      "Main event/climax - highlight the turning point"
+    ],
+    [
+      4.2,
+      "Payoff and emotional ending"
+    ]
+  ]
+}

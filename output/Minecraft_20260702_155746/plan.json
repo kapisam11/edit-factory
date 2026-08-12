@@ -1,0 +1,199 @@
+{
+  "hook": "Focus on human choices",
+  "emotion": "dramatic",
+  "title_options": [
+    "Focus On Human Choices - Minecraft",
+    "Focus On Human Choices - The Minecraft Behind Minecraft",
+    "Why Minecraft Changed Everything"
+  ],
+  "script": "Focus on human choices\nFocus on human choices and consequences around Minecraft\nIdentify a surprising choice, betrayal, or turning point.. you could feel the tension\nBecause Minecraft has notable events, history and community interest.\nThe stakes rose fast and every second mattered. Why would anyone risk that?\nThat choice split friends and rivals apart.. you could feel the tension\nThe payoff hits hardest at the end. Why does this change everything?\nWhy does this matter now?",
+  "edit_plan": [
+    [
+      1.5,
+      "Hook - strongest moment / jump cut / impact frame / quick zoom"
+    ],
+    [
+      2.25,
+      "Intro - topic / person / stakes / camera move"
+    ],
+    [
+      2.25,
+      "Intro - urgency / why care / subtle motion"
+    ],
+    [
+      2.25,
+      "Conflict - tension rises / motion blur / subtle shake"
+    ],
+    [
+      2.25,
+      "Conflict - stakes escalate / jump cut / quick zoom"
+    ],
+    [
+      2.25,
+      "Conflict - twist revealed / raw emotion / fast cut"
+    ],
+    [
+      2.25,
+      "Conflict - tension rises / motion blur / subtle shake"
+    ],
+    [
+      2.08,
+      "Main event - turning point / climax / speed ramp"
+    ],
+    [
+      2.08,
+      "Main event - escalation / impact frame / cinematic transition"
+    ],
+    [
+      2.08,
+      "Main event - emotional peak / punchy zoom"
+    ],
+    [
+      2.08,
+      "Main event - turning point / climax / speed ramp"
+    ],
+    [
+      2.08,
+      "Main event - escalation / impact frame / cinematic transition"
+    ],
+    [
+      2.08,
+      "Main event - emotional peak / punchy zoom"
+    ],
+    [
+      2.08,
+      "Main event - turning point / climax / speed ramp"
+    ],
+    [
+      2.08,
+      "Main event - escalation / impact frame / cinematic transition"
+    ],
+    [
+      2.11,
+      "Main event - emotional peak / punchy zoom"
+    ],
+    [
+      1.88,
+      "Payoff - emotional ending / takeaway / soft settle"
+    ],
+    [
+      1.88,
+      "Payoff - reaction / call to action / cinematic transition"
+    ],
+    [
+      1.88,
+      "Payoff - emotional ending / takeaway / soft settle"
+    ],
+    [
+      1.88,
+      "Payoff - reaction / call to action / cinematic transition"
+    ],
+    [
+      1.88,
+      "Payoff - emotional ending / takeaway / soft settle"
+    ],
+    [
+      1.85,
+      "Payoff - reaction / call to action / cinematic transition"
+    ]
+  ],
+  "structure": {
+    "total_seconds": 45.0,
+    "hook": [
+      0.0,
+      1.5
+    ],
+    "intro": [
+      1.5,
+      6.0
+    ],
+    "conflict": [
+      6.0,
+      15.0
+    ],
+    "climax": [
+      15.0,
+      33.75
+    ],
+    "payoff": [
+      33.75,
+      45.0
+    ]
+  },
+  "topic_expertise": {
+    "key_elements": [
+      "rare loot",
+      "pvp",
+      "base building",
+      "mob interactions",
+      "redstone"
+    ],
+    "trending_now": [
+      "hardcore survival",
+      "speedruns",
+      "server drama",
+      "skill showcase"
+    ],
+    "best_hooks": [
+      "betrayal",
+      "rare find",
+      "impossible challenge",
+      "teamwork fail"
+    ],
+    "tone": "energetic, dramatic, community-focused",
+    "typical_duration": "45-120s"
+  },
+  "topic": "Minecraft",
+  "tone": "energetic, dramatic, community-focused",
+  "typical_duration": "45-120s",
+  "key_elements": [
+    "rare loot",
+    "pvp",
+    "base building",
+    "mob interactions",
+    "redstone"
+  ],
+  "best_hooks": [
+    "betrayal",
+    "rare find",
+    "impossible challenge",
+    "teamwork fail"
+  ],
+  "trending_data": {
+    "viral_length": "30-60 seconds (YouTube Shorts optimal: 42s)",
+    "optimal_cuts_per_minute": 15.0,
+    "average_shot_duration": "1.8 seconds",
+    "hook_placement": "first 0.3-0.5 seconds",
+    "climax_position": "60-75% through video",
+    "trending_effects": [
+      "speed ramps (2x speed → 0.5x speed)",
+      "glitch transitions (controlled, stylized)",
+      "macro close-ups (extreme detail shots)",
+      "film grain (1970s cinematic feel)",
+      "color grading (cool tones for gaming)",
+      "sound design emphasis (beat drops, foley)"
+    ],
+    "retention_techniques": {
+      "retention_point_1": "0.5-1.0s (curiosity hook)",
+      "retention_point_2": "25% through (plot twist or escalation)",
+      "retention_point_3": "50% through (major peak)",
+      "retention_point_4": "75% through (climax)",
+      "retention_point_5": "end (call to action or cliffhanger)"
+    },
+    "algorithm_preferences_2026": {
+      "watch_time": "critical (favor longer completion rates)",
+      "rewatches": "high value (intrigue drives rewatches)",
+      "shares": "high value (social proof)",
+      "comments": "high value (engagement signals)",
+      "click_through": "moderate (CTR less critical than before)"
+    }
+  },
+  "target_cuts": 11,
+  "retention_techniques": {
+    "retention_point_1": "0.5-1.0s (curiosity hook)",
+    "retention_point_2": "25% through (plot twist or escalation)",
+    "retention_point_3": "50% through (major peak)",
+    "retention_point_4": "75% through (climax)",
+    "retention_point_5": "end (call to action or cliffhanger)"
+  }
+}

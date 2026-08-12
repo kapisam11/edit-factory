@@ -1,0 +1,35 @@
+{
+  "package": "output\\Minecraft_20260702_155831",
+  "checks": {
+    "hook_length": true,
+    "script_present": true,
+    "thumbnail_exists": true,
+    "supporting_visuals": true,
+    "trending_signal": false,
+    "subtitle_line_length_ok": false,
+    "hook_strength": true,
+    "edit_plan_duration_sec": 45.0,
+    "edit_plan_duration_ok": true,
+    "avg_shot_length_sec": 2.0454545454545454,
+    "cadence_ok": true,
+    "story_beat_presence": {
+      "Hook": true,
+      "Intro": true,
+      "Conflict": true,
+      "Main event": true,
+      "Payoff": true
+    },
+    "has_hook": true,
+    "has_intro": true,
+    "has_conflict": true,
+    "has_main_event": true,
+    "has_payoff": true,
+    "style_terms_present": true,
+    "shot_variety_ratio": 1.0,
+    "shot_variance_ok": true
+  },
+  "ok": true,
+  "notes": [
+    "Subtitle lines may be too long or too short; target 2-6 words per line when possible."
+  ]
+}
