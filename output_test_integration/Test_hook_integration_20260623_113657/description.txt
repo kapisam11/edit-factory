@@ -1,0 +1,1 @@
+Short doc-style short about Test hook integration. Watch till the end to see the reveal.

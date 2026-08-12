@@ -1,0 +1,48 @@
+{
+  "good_editing": [
+    "hook within first 0.5s",
+    "cut every 1-3 seconds",
+    "color grading matches mood",
+    "sound design emphasizes beats",
+    "transitions feel natural (not jarring)",
+    "pacing builds tension",
+    "visual variety every 2 shots",
+    "professional style terms present",
+    "story beats clear and obvious",
+    "emotional climax at 60-80% mark"
+  ],
+  "bad_editing": [
+    "static shots for >3 seconds",
+    "random effects (no purpose)",
+    "same filter on every shot",
+    "text overlays too long",
+    "audio out of sync",
+    "cuts feel slow or sluggish",
+    "no clear story progression",
+    "generic music choice",
+    "blurry or unfocused footage",
+    "no hook before 1.5s"
+  ],
+  "trendy_2026": [
+    "AI-detected retention points (micro-cuts at peak interest)",
+    "Glitch effects (controlled, not random)",
+    "Extreme speed ramping (2x-0.25x transitions)",
+    "Macro/detail transitions (wide to extreme close-up)",
+    "Emotional reaction cuts (pause for impact)",
+    "Soundscape layering (multiple audio tracks)",
+    "Color grading (cinematic LUT application)",
+    "Ultra-fast text overlays (10-20 per minute)",
+    "B-roll texture mixing (film grain, digital artifacts)",
+    "Physics-based transitions (motion curves, easing)"
+  ],
+  "engagement_hooks": [
+    "shocking statement or question",
+    "visual spectacle or rare moment",
+    "controversial or opinion-driven",
+    "personal/emotional story",
+    "skill/achievement moment",
+    "mystery or cliffhanger",
+    "funny/meme moment",
+    "educational/informative"
+  ]
+}

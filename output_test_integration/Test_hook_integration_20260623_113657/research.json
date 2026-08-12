@@ -1,0 +1,70 @@
+{
+  "topic": "Test hook integration",
+  "who_what": "",
+  "why_care": "Because Test hook integration has notable events, history and community interest.",
+  "main_conflict": "Identify a surprising choice, betrayal, or turning point.",
+  "emotion": "dramatic",
+  "strongest_angle": "Focus on human choices and consequences around Test hook integration.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Test_hook_integration",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fmaxrozen.com%2Flearn%2Dintegration%2Dtesting%2Dreact%2Dhook%2Dform&amp;rut=a5c202abe78481762cf45bceb5afe25265c63ee713750addaed29ed0a6bf5769",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.geeksforgeeks.org%2Freactjs%2Ftesting%2Dcustom%2Dhooks%2Dwith%2Dreact%2Dtesting%2Dlibrary%2F&amp;rut=f31e2903de13cb3b394f1992d12f5be72286395cd9ea4fd124881e08992040b5",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwebhooktest.net%2F&amp;rut=8c0fd5c6afed998c443e1a8fe54b2ea2511a05dc1e9d8663b1991d31956759f8",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fdev.to%2Fwebhookscout%2Ftesting%2Dwebhook%2Dintegrations%2Dlocally%2Da%2Dcomplete%2Ddeveloper%2Dguide%2D3285&amp;rut=742d27d19b56d402e44d677a58fd5006d8e5c3dad623798e010ff4886da42491",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fblog.logrocket.com%2Ftest%2Dreact%2Dhooks%2F&amp;rut=47145d31b6d8fe48032777ac934023d3c6f2fa8c77a4a66fda482ec49aec8743",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.compilenrun.com%2Fdocs%2Fframework%2Freact%2Freact%2Dtesting%2Freact%2Dhook%2Dtesting%2F&amp;rut=c075afa9945a20fd9371c56db30733d4c0125994737c3718eb54457b014d0581",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F76769823%2Fhow%2Dto%2Dtest%2Da%2Dreact%2Dhook%2Dused%2Dwithin%2Da%2Dcomponent&amp;rut=e980b6c4281d4a39c6076b8036d46be4d8049b971bfc2d53bfe260b972a386a6",
+    "//duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftesting%2Dlibrary%2Freact%2Dhooks%2Dtesting%2Dlibrary&amp;rut=8abb58f543313d1b27648916885824c8f6274b37f8b04fc2a0ae6a72a818522e"
+  ],
+  "visuals": [
+    {
+      "url": "https://www.youtube.com/watch?v=bvdHVxqjv80",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/bvdHVxqjv80/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=erp-7MCK5BU",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/erp-7MCK5BU/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1OFiiPretCM",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/1OFiiPretCM/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xtk3rTWvjIY",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/xtk3rTWvjIY/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PAcCG6gzP00",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/PAcCG6gzP00/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aY71bo8kPFg",
+      "source": "youtube",
+      "title": "",
+      "thumbnail": "https://i.ytimg.com/vi/aY71bo8kPFg/hqdefault.jpg",
+      "score": 0.7,
+      "purpose": "clip"
+    }
+  ],
+  "trending": false
+}

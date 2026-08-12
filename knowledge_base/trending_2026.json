@@ -1,0 +1,29 @@
+{
+  "viral_length": "30-60 seconds (YouTube Shorts optimal: 42s)",
+  "optimal_cuts_per_minute": 15.0,
+  "average_shot_duration": "1.8 seconds",
+  "hook_placement": "first 0.3-0.5 seconds",
+  "climax_position": "60-75% through video",
+  "trending_effects": [
+    "speed ramps (2x speed \u2192 0.5x speed)",
+    "glitch transitions (controlled, stylized)",
+    "macro close-ups (extreme detail shots)",
+    "film grain (1970s cinematic feel)",
+    "color grading (cool tones for gaming)",
+    "sound design emphasis (beat drops, foley)"
+  ],
+  "retention_techniques": {
+    "retention_point_1": "0.5-1.0s (curiosity hook)",
+    "retention_point_2": "25% through (plot twist or escalation)",
+    "retention_point_3": "50% through (major peak)",
+    "retention_point_4": "75% through (climax)",
+    "retention_point_5": "end (call to action or cliffhanger)"
+  },
+  "algorithm_preferences_2026": {
+    "watch_time": "critical (favor longer completion rates)",
+    "rewatches": "high value (intrigue drives rewatches)",
+    "shares": "high value (social proof)",
+    "comments": "high value (engagement signals)",
+    "click_through": "moderate (CTR less critical than before)"
+  }
+}
