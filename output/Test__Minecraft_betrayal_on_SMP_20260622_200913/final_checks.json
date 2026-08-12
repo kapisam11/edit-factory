@@ -1,0 +1,18 @@
+{
+  "package": "output\\Test__Minecraft_betrayal_on_SMP_20260622_200913",
+  "checks": {
+    "hook_length": true,
+    "script_present": true,
+    "thumbnail_exists": true,
+    "supporting_visuals": false,
+    "trending_signal": true,
+    "subtitle_line_length_ok": true,
+    "edit_plan_duration_sec": 45.0,
+    "edit_plan_duration_ok": true
+  },
+  "ok": true,
+  "notes": [
+    "No supporting visuals were discovered; add screenshots or gameplay clips.",
+    "Topic appears to have recent activity \u2014 leverage trending hooks in titles and descriptions."
+  ]
+}
